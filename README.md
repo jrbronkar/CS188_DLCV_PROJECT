@@ -4,6 +4,7 @@
 
 We first replicated this paper and results, then downloaded the Animal Kingdom dataset and applied transfer learning to fine tune the Charades conv model as a starting checkpoint for our model. Our results can be found on our project report. A requirements file is provided to replicate our results.
 
+## ORIGINAL README
 In  this  paper,  we  study  the  problem  of  moment  localization  with  natural  language,  and  propose  a  novel  2D  Temporal Adjacent Networks(2D-TAN) method. 
 The core idea is to retrieve a moment on a two-dimensional temporal map, which considers adjacent moment candidates as the temporal context. 
 2D-TAN is capable of encoding adjacent temporal relation, while learning discriminative feature for matching video moments with referring expressions. 
